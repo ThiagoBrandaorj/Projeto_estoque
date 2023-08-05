@@ -1,6 +1,3 @@
-# Ger_estoque = Thiago e Breno
-# Ger_cliente = Luan e Vitor
-# Ger_caixa = Pedro e Fabiano
 
 while True:
   print('-'*40)
